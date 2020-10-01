@@ -1,4 +1,5 @@
 # A web template which supports parallax effect
+An amazing project.
 
 A parallax effect supporting web template made using [parllax.js](https://pixelcog.github.io/parallax.js/)
 
